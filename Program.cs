@@ -3,10 +3,10 @@
 namespace welcometo
 {
   class Program
-  {
+  {//count 
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello,World, my name is, Michael Keough");
+      Console.WriteLine("Hello World My Name Is Mike Keough");
     }
   }
 }
